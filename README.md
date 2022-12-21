@@ -1,4 +1,4 @@
-# HangMan
+
 <h1>Hang Man UWP C#</h1>
 <p>This is a simple implementation of the classic game Hang Man for the Universal Windows Platform (UWP) using C#.</p>
 <h2>Installation</h2>
