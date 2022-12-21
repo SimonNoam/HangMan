@@ -12,5 +12,5 @@
 <p>This game was developed by [Your Name] as a learning project for programming in C# and the UWP platform.</p>
 <h2>License</h2>
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-![image](https://user-images.githubusercontent.com/113131666/208872485-ed21041e-8db9-4dce-899a-bd4efc96100c.png)
+![image](https://user-images.githubusercontent.com/113131666/208873424-14999b35-d1e2-4d63-9276-0f3ab09e4f7a.png)
 
