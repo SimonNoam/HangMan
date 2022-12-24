@@ -9,9 +9,8 @@
 <p>To make a guess, type in a letter and click the "Send Letter" button. If the letter is in the word, it will be revealed in the appropriate place. If the letter is not in the word, you will lose one of your incorrect guesses.</p>
 <p>The game is won when you correctly guess all of the letters in the word, and is lost when you run out of incorrect guesses.</p>
 <h2>Credits</h2>
-<p>This game was developed by [Your Name] as a learning project for programming in C# and the UWP platform.</p>
+<p>This game was developed by Me as a learning project for programming in C# and the UWP platform.</p>
 <h2>License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 <img src="https://user-images.githubusercontent.com/113131666/208873424-14999b35-d1e2-4d63-9276-0f3ab09e4f7a.png" alt="Screenshot of Hang Man game">
 
 
