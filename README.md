@@ -10,6 +10,4 @@
 <p>The game is won when you correctly guess all of the letters in the word, and is lost when you run out of incorrect guesses.</p>
 <h2>Credits</h2>
 <p>This game was developed by Me as a learning project for programming in C# and the UWP platform.</p>
-<img src="https://user-images.githubusercontent.com/113131666/208873424-14999b35-d1e2-4d63-9276-0f3ab09e4f7a.png" alt="Screenshot of Hang Man game">
-
-
+<img src="https://user-images.githubusercontent.com/113131666/212270163-1c319d24-3a95-4bbe-8594-418c7d63a456.png" alt="Screenshot of Hang Man game">
